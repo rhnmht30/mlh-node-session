@@ -1,6 +1,6 @@
 # Weather App using Node.js + Express + OpenWeather
 
-## Here’s what it’ll look like: [Weather App](https://www.google.com)
+## Here’s what it’ll look like: [Weather App](https://simple-nodejs-weather-app-irhhpddsku.now.sh/)
 
 ### **Pre-Project Setup**
 
